@@ -2,7 +2,7 @@ To Do
 
 - Make a toy product with CORE functionality
 
-- The map is to a -<>- shape with 6 edges
+- The map is to be a -<>- shape with 6 edges
 - Requirements Step 1
     - A way of creating/uploading/representing encounter tables in a sensible data structure
     - A way to check off a pokemon as "caught"
